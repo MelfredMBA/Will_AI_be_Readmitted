@@ -8,3 +8,4 @@ Source for dataset:
 How to reproduce:
 - First obtain the notebook from Kaggle, then mount it in Google Drive.
 - Strictly follow the directory path from the code when reproducing.
+- If running locally, modify where the notebook points to (see the notebook note).
