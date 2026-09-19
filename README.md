@@ -35,21 +35,3 @@ Deployment
 
 Environment
 - Python 3.10+, Jupyter Notebook or Google Colab
-
-Repository structure
-
-hospital-readmission-prediction/
-├── data/ Dataset and data dictionary
-├── models/ Trained model, scaler, and feature info
-├── notebooks/ Full pipeline notebook
-├── src/ Python source scripts and Flask app
-│ ├── app.py
-│ ├── fairness_mitigation.py
-│ ├── model.py
-│ ├── preprocess.py
-│ └── templates/
-│ └── index.html
-├── docs/ Final report
-├── requirements.txt
-├── LICENSE
-└── README.md
