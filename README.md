@@ -1,4 +1,4 @@
-Programmer: Melfred P. Sumaya, PTRP, MBA
+Programmer: Melfred D. Sumaya, PTRP, MBA
 Project: Will AI be Readmitted?: An AI-assisted hospital readmission assessment.
 
 This project predicts whether a patient is likely to be readmitted to the hospital within 30 days of discharge using previous information from the user. It focuses on using age, BMI, previous admissions, diabetes status, and comorbidities.
